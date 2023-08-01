@@ -1,0 +1,14 @@
+Things to do when analysing a dataset(Key Objectives)
+    > Features of columns you are analysing and why are you analysing them.
+    > Preprocessing and preparation
+    >
+
+Statistics for data science
+ > Descriptiv statistics, Measure Central Tendency(Mean. Mode, Median), Measure Dispersion( Standard Deviation)
+ > Probability
+ > Inferrential Statistics(make predictions, identity, variables and hypothesis)
+ > Modeling
+ > Machine Learning
+ > Regression, classification, cluster, anomaly detection
+
+Jeff Geof number: +250722359866
